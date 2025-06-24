@@ -2,7 +2,7 @@
 
 🧠 **About Me**
 
-- 💻 Graduate student at the University of Pennsylvania (MCIT '26)
+- 💻 Graduate student at the University of Pennsylvania (CS '26)
 - 📊 Background in software engineering, machine learning and data science
 - 🌱 Currently diving deeper into systems programming, full-stack development, and AI
 
