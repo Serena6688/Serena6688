@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Serena! 👋
 
-<!--
-**Serena6688/Serena6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **About Me**
 
-Here are some ideas to get you started:
+- 💻 Graduate student at the University of Pennsylvania (MCIT '26)
+- 📊 Background in software engineering, machine learning and data science
+- 🌱 Currently diving deeper into systems programming, full-stack development, and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Recent Projects**
+
+- 💼 Customer Targeting (Python, KMeans, Tableau)
+- 🌐 Omnichannel Expansion (SQL, NumPy, PyTorch)
+- 🕹️ Othello Game (Java, JavaFX, CSS)
+- 🧘 WeMeditate iOS App (SwiftUI, Xcode)
+- 🌐 Multi-threaded HTTP Server (C++, POSIX)
+
+⌨️ **Languages & Tools**
+
+- **Languages:** Python, Java, Swift, SQL, C++, R, HTML/CSS/JS
+- **Frameworks:** React, JavaFX, Flask, SwiftUI, MongoDB, Hugging Face
+- **Tools:** Git, VSCode, Tableau, Docker, AWS, MongoDB, Xcode
+
+🎨 **Fun Fact**
+
+- Travel is my favorite way to reset and reimagine. Whether wandering historic markets in Istanbul, soaking in the skyline of Hong Kong, or enjoying the charm of Macau’s old town, I’m always chasing new perspectives.
+
+📫 **Let’s Connect**
+
+- [LinkedIn](https://www.linkedin.com/in/luyaowu001)
+- [Personal Website](https://serena6688.github.io/serenaintech/)
+- 📧 luyaowutech@gmail.com
